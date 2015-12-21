@@ -1,0 +1,10 @@
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\Kryptografia wizualna\Kryptografia wizualna\bin\Debug\Kryptografia wizualna.exe.config
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\Kryptografia wizualna\Kryptografia wizualna\bin\Debug\Kryptografia wizualna.exe
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\Kryptografia wizualna\Kryptografia wizualna\bin\Debug\Kryptografia wizualna.pdb
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\Kryptografia wizualna\Kryptografia wizualna\obj\Debug\Kryptografia wizualna.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\Kryptografia wizualna\Kryptografia wizualna\obj\Debug\Kryptografia_wizualna.Form1.resources
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\Kryptografia wizualna\Kryptografia wizualna\obj\Debug\Kryptografia_wizualna.Properties.Resources.resources
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\Kryptografia wizualna\Kryptografia wizualna\obj\Debug\Kryptografia wizualna.csproj.GenerateResource.Cache
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\Kryptografia wizualna\Kryptografia wizualna\obj\Debug\Kryptografia wizualna.exe
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\Kryptografia wizualna\Kryptografia wizualna\obj\Debug\Kryptografia wizualna.pdb
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\Kryptografia wizualna\Kryptografia wizualna\obj\Debug\Kryptografia_wizualna.Form2.resources
